@@ -1,0 +1,135 @@
+.landing-page{
+    display: inline-block;
+    height: 1800px;
+    width:100%;
+    background-image:linear-gradient(to bottom, #000000, #2b2b2b);
+}
+
+.heading{
+    display: inline-flex;
+    height: 105px;
+    width: 100%;
+    background-color:rgb(0, 0, 0);
+    margin-top: 0px;
+    position: fixed;
+}
+.logo{
+    display: flex;
+    height: 95px;
+    width: 130px;
+    margin-top: 5px;
+    margin-left: 43px;
+}
+
+.nav-button{ 
+    display: flex;
+    margin-left: 875px;
+    margin-top: 32px;
+}
+#H-b1{
+    height: 35px;
+    width: 130px;
+    margin: 5px 30px 5px 10px;
+    border-radius: 15px;
+    background-color: transparent;
+    border-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    font-size: medium;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    
+}
+
+.mid-body1{
+    background-color: transparent;
+    height: 780px;
+    width: 100%;
+    margin-top: 110px;
+    display: inline-flex;
+}
+.para-block{
+    background-color: transparent;
+    height: 280px;
+    width: 50%;
+    margin-left: 80PX;
+    margin-top: 150px;
+    
+}
+p{
+    color: whitesmoke;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-large;
+ 
+}
+h2{
+  color: whitesmoke;
+}
+
+.video{
+    background-color: transparent;
+    height: 330px;
+    width: 50%;
+    margin-left: 150PX;
+    margin-top: 150px;
+}
+#fixoraVideo{
+    height: 330px;
+    margin-left: 15px;
+}
+
+.service-title{
+    text-align: center;
+    font-size: large;
+    height: 100px;
+    width: 100% ;
+    color: #ffffff;
+    background-color:transparent;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 50px;
+}
+.mid-body2{
+    background-color:transparent;
+    display: flex;
+    height: 600px;
+    width: 100%;
+}
+.card {
+    background: transparent;
+    height: 480px;
+    width: 300px;
+    padding: 20px;
+    text-align: center;
+    margin-left: 30px;
+    
+}
+.profile-img {
+    width: 250px;
+    height: 250px;
+    border-radius: 15px;
+    object-fit: cover;
+    
+}
+.name {
+    font-size: 22px;
+    color: #ffffff;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-top: 25px;
+}
+.card-text{
+    color: #ffffff;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: medium;
+    margin-top: 15px;
+}
+.card-button{
+    height: 35px;
+    width: 130px;
+    border-radius: 15px;
+    background-color: transparent;
+    border-color: rgb(240, 235, 235);
+    color: rgb(255, 255, 255);
+    font-size: medium;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    margin-top: 22px;
+}
